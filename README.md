@@ -15,8 +15,9 @@ README.md
 
 💻 I've watched these online lecture
 =============
-<h3>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</h3>
+<h3>자바 ORM 표준 JPA 프로그래밍 - 기본편</h3>
 <h3>스프링 핵심 원리 - 기본편</h3><br/>
+<h3>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</h3>
 
 📈 My GitHub Stats
 =============
