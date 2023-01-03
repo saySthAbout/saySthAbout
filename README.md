@@ -16,7 +16,7 @@ README.md
 💻 I've watched these online lecture
 =============
 <h2>Udemy 강의</h2>
-<h3>☕ 블랙커피 Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기</h3>
+<h3>☕ 블랙커피 Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기</h3><br/>
 
 <h2>우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복 로드맵</h2>
 <h3>스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술</h3>
