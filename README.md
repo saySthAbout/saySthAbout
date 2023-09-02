@@ -6,7 +6,6 @@ README.md
 =============
 <h3>Java</h3>
 <h3>JavaScript</h3>
-<h3>C#</h3><br/>
 
 📗 I've read these books
 =============
