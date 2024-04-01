@@ -21,7 +21,8 @@ README.md
 <h3>쉽게 배우는 운영체제</h3>
 <h3>HTTP 완벽 가이드</h3>
 <h3>CODE 하드웨어와 소프트웨어에 숨어 있는 언어</h3>
-<h3>이펙티브 자바</h3><br/>
+<h3>이펙티브 자바</h3>
+<h3>도커 교과서</h3><br/>
 
 💻 I've watched these online lectures
 =============
@@ -44,8 +45,8 @@ README.md
 
 🎇 I've been watching these online lectures
 =============
-<h3>한글자막】 Linux Command Line 부트캠프: 리눅스 초보자부터 고수까지</h3>
-<h3>도커 교과서</h3><br/>
+<h2>Udemy 강의</h2>
+<h3>【한글자막】 Linux Command Line 부트캠프: 리눅스 초보자부터 고수까지</h3><br/>
 
 📈 My GitHub Stats
 =============
