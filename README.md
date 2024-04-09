@@ -46,7 +46,8 @@ README.md
 🎇 I've been watching these online lectures
 =============
 <h2>Udemy 강의</h2>
-<h3>【한글자막】 Linux Command Line 부트캠프: 리눅스 초보자부터 고수까지</h3><br/>
+<h3>【한글자막】 Linux Command Line 부트캠프: 리눅스 초보자부터 고수까지</h3>
+<h3>Mastering Regular Expressions in JavaScript</h3><br/>
 
 📈 My GitHub Stats
 =============
